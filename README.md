@@ -1,4 +1,6 @@
-# Multivariate-Analysis: Purpose of the repository is to showcase the multivariate analysis done on the ATP tennis data set chosen.
+# Multivariate-Analysis: 
+
+Purpose of the repository is to showcase the multivariate analysis done on the ATP tennis data set chosen.
 
 Data Set Name : ATP Grand Slams Tennis Data Set
 
