@@ -1,16 +1,16 @@
 # Multivariate-Analysis: 
 
-1.Purpose of the repository is to showcase the multivariate analysis done on the ATP tennis data set chosen.
+1.Purpose of the repository is to showcase the multivariate analysis done on the ATP Mens Grandslam match statistics
 
 Data Set Name : ATP Grand Slams Tennis Data Set
 
-2.Objective(What eaxtly are we doing?) : This dataset has nearly 20 years of grand slams data that comprises of the players details which helps us to understand 
-their performance in the respective tournament based on various factors such as no of aces,break points saved,return points won etc.
-Our objective here is to analyze various variables which will help us classify whether a player will reach the finals of an upcoming 
-tournament.Also to determine the weightage of different variables involved to determine the player's performance.
+2.Objective(What eaxtly are we doing?) : This dataset has nearly 20 years of ATP grand slams data comprising of match statistics and players details which will help us understand
+* PLayer performance in the respective tournaments in different rounds based on variables such as no of aces,break points saved,return points won etc
+* We will also get an overall perspective of how the game has changed over the years by analyzing different match statistics like average length of the games, time between points, comparison between stats of top 3 players to medium tier players and low ranking players
+* Our objective is to analyze player performance and match stats to predict whether a player will reach/win the finals of an upcoming 
+tournament. We will also determine which factors contribute to improving a players chances of winning
 
-3.Source Of the Data set : This is taken from Kaggle which consists of three different data sets like matches,stats and players which 
-inturn has lot of variables/columns which will be used for our prediction/classification.
+3.Source Of the Data set : Kaggle. It consists of three tables; matches,stats and players.Please refer the Variable definition file to undersand variables and their meaning.
 
 
 
